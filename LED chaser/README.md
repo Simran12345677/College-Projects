@@ -1,4 +1,10 @@
 # LED Chaser Circuit 🚥
+
+
+
+https://github.com/user-attachments/assets/dc587e27-655c-4382-83fe-7a511e9c36bb
+
+
 ## Overview
 This project is a hardware-based LED Chaser circuit designed to create a sequential, flashing light effect without the use of a programmable microcontroller. The circuit relies on the integration of standard ICs to trigger 32 LEDs in a predetermined, repetitive chasing cycle. 
 
